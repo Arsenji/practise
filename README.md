@@ -1,3 +1,3 @@
 # Git 1 задача
-practise
+https://github.com/Arsenji/git-bash-practise.git
 # Git 2 задача
