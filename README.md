@@ -5,5 +5,6 @@ https://github.com/Arsenji/git-bash-practise.git
 ![image](https://github.com/Arsenji/practise/assets/111646101/174a69ff-b542-462b-ad2f-0a3728f502c8)
 # Git 3 задача
 # Git 4 задача
-![image](https://github.com/Arsenji/practise/assets/111646101/66425050-8aea-4b40-ba5b-4b08f2888f83)
+![image_2023-07-07_10-53-46](https://github.com/Arsenji/practise/assets/111646101/35cba316-da86-4a56-b314-a5cc50401d85)
+
 
