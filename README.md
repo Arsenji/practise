@@ -8,6 +8,7 @@ https://github.com/Arsenji/git-bash-practise.git
 ![image_2023-07-07_10-53-46](https://github.com/Arsenji/practise/assets/111646101/35cba316-da86-4a56-b314-a5cc50401d85)
 # Git 5 задача
 # Git 6 задача
+https://github.com/Arsenji/tasklist/commits/main
 # Git 7 задача
 https://github.com/Arsenji/Aircraft.git
 # Git 8 задача
