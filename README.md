@@ -12,6 +12,7 @@ https://github.com/Arsenji/tasklist/commits/main
 # Git 7 задача
 https://github.com/Arsenji/Aircraft.git
 # Git 8 задача
+https://github.com/Arsenji/MVC.git
 # Git 9 задача
 # Git 10 задача
 
